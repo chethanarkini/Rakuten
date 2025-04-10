@@ -1,4 +1,3 @@
-"""
 How to Run the System:
 
 1. **Set up the environment**:
